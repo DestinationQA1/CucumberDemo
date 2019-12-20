@@ -1,0 +1,212 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "I am going to validate Calculator App",
+    "line": 1,
+    "id": "i-am-going-to-validate-calculator-app",
+    "tags": [],
+    "uri": "features\\demo.feature",
+    "elements": [
+      {
+        "id": "i-am-going-to-validate-calculator-app;angualar-validations",
+        "keyword": "Scenario",
+        "line": 27,
+        "name": "Angualar validations",
+        "tags": [
+          {
+            "name": "@AngularTesting",
+            "line": 17
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "JSFiles\\stepDefinations\\hooks.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 20,
+            "name": "I will navigate to \"AngularJs\" page",
+            "match": {
+              "location": "JSFiles\\stepDefinations\\steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4286000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "I clicked on header link",
+            "match": {
+              "location": "JSFiles\\stepDefinations\\steps.js:36"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2170000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "you will navigate to angular page",
+            "match": {
+              "location": "JSFiles\\stepDefinations\\steps.js:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 23,
+            "name": "you will enter \"hello\" in search box",
+            "match": {
+              "location": "JSFiles\\stepDefinations\\steps.js:44"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6259000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "JSFiles\\stepDefinations\\hooks.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "i-am-going-to-validate-calculator-app;angualar-validations",
+        "keyword": "Scenario",
+        "line": 28,
+        "name": "Angualar validations",
+        "tags": [
+          {
+            "name": "@AngularTesting",
+            "line": 17
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "JSFiles\\stepDefinations\\hooks.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 20,
+            "name": "I will navigate to \"AngularJs\" page",
+            "match": {
+              "location": "JSFiles\\stepDefinations\\steps.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1519000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "I clicked on header link",
+            "match": {
+              "location": "JSFiles\\stepDefinations\\steps.js:36"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 840000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "you will navigate to angular page",
+            "match": {
+              "location": "JSFiles\\stepDefinations\\steps.js:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 23,
+            "name": "you will enter \"hey\" in search box",
+            "match": {
+              "location": "JSFiles\\stepDefinations\\steps.js:44"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6794000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "JSFiles\\stepDefinations\\hooks.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
